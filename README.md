@@ -1,5 +1,5 @@
 # IPL-Data-Analysis
-# # Project Objective
+## Project Objective
 The goal of this project is to analyze IPL data to extract valuable insights about team strategies, player performances, and game trends. Through data preprocessing, visualization, and statistical analysis, we explore various aspects of IPL matches to identify significant patterns and correlations.
 
 ## Dataset Used
